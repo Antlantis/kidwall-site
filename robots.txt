@@ -1,0 +1,7 @@
+# Note: on a GitHub Pages *project* site (antlantis.github.io/kidwall-site/), crawlers only read
+# https://antlantis.github.io/robots.txt (the user-site root), not this file. Keep it for when the
+# site moves to its own domain; until then submit the sitemap in Google Search Console instead.
+User-agent: *
+Allow: /
+
+Sitemap: https://antlantis.github.io/kidwall-site/sitemap.xml
